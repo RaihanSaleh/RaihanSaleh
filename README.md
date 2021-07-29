@@ -2,18 +2,15 @@ Hi There! 👋🤓
 <br>My name is <a href='https://www.linkedin.com/in/raihansaleh/'>Raihan Saleh</a>
 <br>I'm a software developer / backend engineer from NYC.
 
+---
 <a href="https://github.com/raihansaleh/raihansaleh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihansaleh&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihansaleh&langs_count=3&theme=dracula" />
 </a>
 <a href="https://github.com/raihansalhe/raihansaleh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihansaleh&hide=i&count_private=true&show_icons=true" alt="Raihan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihansaleh&hide=issues&count_private=true&show_icons=true&theme=dracula" alt="Raihan's GitHub Stats" />
 </a>
 
-<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
-
+---
 ![OS](https://img.shields.io/badge/OS-Mac-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
 ![code](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=2bbc8a)
 ![code](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=2bbc8a)
@@ -49,3 +46,8 @@ Hi There! 👋🤓
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+<!-- How to add more pinned repos -->
+<!-- <a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> -->
