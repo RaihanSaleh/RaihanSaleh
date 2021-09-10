@@ -1,6 +1,6 @@
 Hi There! 👋🤓
 <br>My name is <a href='https://www.linkedin.com/in/raihansaleh/'>Raihan Saleh</a>
-<br>I'm a software developer / backend engineer from NYC.
+<br>I'm a software developer / engineer from NYC.
 
 ---
 <a href="https://github.com/raihansaleh/raihansaleh">
