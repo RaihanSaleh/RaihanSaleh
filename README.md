@@ -11,13 +11,11 @@ Hi There! 👋🤓
 </a>
 
 ---
-![OS](https://img.shields.io/badge/OS-Mac-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
 ![code](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=2bbc8a)
 ![code](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=2bbc8a)
-![code](https://img.shields.io/badge/Code-Node.Js-informational?style=plastic&logo=Node.js&logoColor=white&color=2bbc8a)
 ![DB](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![DB](https://img.shields.io/badge/DB-Mongo-informational?style=plastic&logo=MongoDB&logoColor=white&color=2bbc8a)
-![DB](https://img.shields.io/badge/DB-Express-informational?style=plastic&logo=Express&logoColor=white&color=2bbc8a)
+![Tools](https://img.shields.io/badge/Tools-Express-informational?style=plastic&logo=Express&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-Flask-informational?style=plastic&logo=Flask&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-Django-informational?style=plastic&logo=Django&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-React-informational?style=plastic&logo=React&logoColor=white&color=2bbc8a)
